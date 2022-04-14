@@ -1,0 +1,15 @@
+C:\Users\Gregory Wizner\source\repos\Exercize13\bin\Debug\net6.0\Exercize13.exe
+C:\Users\Gregory Wizner\source\repos\Exercize13\bin\Debug\net6.0\Exercize13.deps.json
+C:\Users\Gregory Wizner\source\repos\Exercize13\bin\Debug\net6.0\Exercize13.runtimeconfig.json
+C:\Users\Gregory Wizner\source\repos\Exercize13\bin\Debug\net6.0\Exercize13.dll
+C:\Users\Gregory Wizner\source\repos\Exercize13\bin\Debug\net6.0\Exercize13.pdb
+C:\Users\Gregory Wizner\source\repos\Exercize13\obj\Debug\net6.0\Exercize13.csproj.AssemblyReference.cache
+C:\Users\Gregory Wizner\source\repos\Exercize13\obj\Debug\net6.0\Exercize13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gregory Wizner\source\repos\Exercize13\obj\Debug\net6.0\Exercize13.AssemblyInfoInputs.cache
+C:\Users\Gregory Wizner\source\repos\Exercize13\obj\Debug\net6.0\Exercize13.AssemblyInfo.cs
+C:\Users\Gregory Wizner\source\repos\Exercize13\obj\Debug\net6.0\Exercize13.csproj.CoreCompileInputs.cache
+C:\Users\Gregory Wizner\source\repos\Exercize13\obj\Debug\net6.0\Exercize13.dll
+C:\Users\Gregory Wizner\source\repos\Exercize13\obj\Debug\net6.0\refint\Exercize13.dll
+C:\Users\Gregory Wizner\source\repos\Exercize13\obj\Debug\net6.0\Exercize13.pdb
+C:\Users\Gregory Wizner\source\repos\Exercize13\obj\Debug\net6.0\Exercize13.genruntimeconfig.cache
+C:\Users\Gregory Wizner\source\repos\Exercize13\obj\Debug\net6.0\ref\Exercize13.dll
